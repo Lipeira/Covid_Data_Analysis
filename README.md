@@ -1,2 +1,2 @@
-# Covid_Death_Analysis
+# Covid_Data_Analysis
 ![IMG](certification.png)
